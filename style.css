@@ -1,11 +1,32 @@
-body {background-color:#06f325;
+body {
+    background-color:#f6f8f6;
     margin: auto;
     
 }
-div {width: 700px;
+div {
+    width:fit-content;
         margin: auto;
         font-family: Helvetica Neue;
-        background: white;
-        padding: 40px;
-        font-size: xx-large;
+    
+        padding: 5px;
+        font-size:larger;
 }
+h1 {
+padding: 10px;
+text-align: center;
+}
+
+h2 {
+    border: 4px rgb(255, 255, 255) solid;
+    padding: 12px;
+    text-align: center;
+    }
+
+h3 {
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+    font-size: medium;
+    font-stretch: extra-expanded;
+    color: crimson;
+        }
