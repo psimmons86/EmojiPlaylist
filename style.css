@@ -9,6 +9,7 @@ h2 {
   text-align: center;
 }
 .boxes {
+  display: flex;
 }
 
 .box {
