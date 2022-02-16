@@ -15,6 +15,7 @@ h2 {
 .box {
   width: 5rem;
   height: 5rem;
+  margin: 2rem;
 }
 
 .box-one {
