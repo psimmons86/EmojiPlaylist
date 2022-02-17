@@ -9,7 +9,7 @@ h2 {
   text-align: center;
 }
 .boxes {
-  border: dash 5px yellow;
+  border: dashed yellow;
   display: flex;
   flex-direction: row;
   justify-content: center;
