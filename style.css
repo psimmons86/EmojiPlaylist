@@ -18,31 +18,42 @@ h2 {
 }
 .box-one {
   background-color: aquamarine;
-  width: auto;
+  margin: 1rem;
+  width: 5rem;
+  height: 5rem;
 }
 
 .box-two {
   background-color: lightpink;
-  width: auto;
+  margin: 1rem;
+  width: 5rem;
+  height: 5rem;
 }
 
 .box-three {
   background-color: yellow;
-  width: auto;
+  margin: 1rem;
+  width: 5rem;
+  height: 5rem;
 }
 
 .box-four {
   background-color: #ff7e05;
-  width: auto;
+  margin: 1rem;
+  width: 5rem;
+  height: 5rem;
 }
 
 .box-five {
   background-color: #ff00b3;
-
-  width: auto;
+  margin: 1rem;
+  width: 5rem;
+  height: 5rem;
 }
 
 .box-six {
   background-color: #02ff24;
-  width: auto;
+  margin: 1rem;
+  width: 5rem;
+  height: 5rem;
 }
