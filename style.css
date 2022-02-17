@@ -5,52 +5,51 @@ H1 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h2 {
-  text-align: center;
-}
 .boxes {
   display: grid;
-  grid-template-rows: 100px 100px 100px;
-  grid-template-columns: 100px 100px;
+  grid-template-rows: 100px 100px 100px 100px;
+  grid-template-columns: 100px 100px 100px;
+  align-items: center;
+  justify-content: center;
 }
 .box-one {
   background-color: aquamarine;
-  margin: 1rem;
-  width: auto;
+  text-align: center;
   height: auto;
+  width: auto;
 }
 
 .box-two {
   background-color: lightpink;
-  margin: 1rem;
-  width: auto;
+  text-align: center;
   height: auto;
+  width: auto;
 }
 
 .box-three {
   background-color: yellow;
-  margin: 1rem;
-  width: auto;
+  text-align: center;
   height: auto;
+  width: auto;
 }
 
 .box-four {
   background-color: #ff7e05;
-  margin: 1rem;
-  width: auto;
+  text-align: center;
   height: auto;
+  width: auto;
 }
 
 .box-five {
   background-color: #ff00b3;
-  margin: 1rem;
-  width: auto;
+  text-align: center;
   height: auto;
+  width: auto;
 }
 
 .box-six {
   background-color: #02ff24;
-  margin: 1rem;
-  width: auto;
+  text-align: center;
   height: auto;
+  width: auto;
 }
