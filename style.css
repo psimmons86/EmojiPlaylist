@@ -20,40 +20,40 @@ h2 {
   background-color: aquamarine;
   margin: 1rem;
   width: auto;
-  height: 10rem;
+  height: auto;
 }
 
 .box-two {
   background-color: lightpink;
   margin: 1rem;
   width: auto;
-  height: 10rem;
+  height: auto;
 }
 
 .box-three {
   background-color: yellow;
   margin: 1rem;
   width: auto;
-  height: 10rem;
+  height: auto;
 }
 
 .box-four {
   background-color: #ff7e05;
   margin: 1rem;
   width: auto;
-  height: 10rem;
+  height: auto;
 }
 
 .box-five {
   background-color: #ff00b3;
   margin: 1rem;
   width: auto;
-  height: 10rem;
+  height: auto;
 }
 
 .box-six {
   background-color: #02ff24;
   margin: 1rem;
   width: auto;
-  height: 10rem;
+  height: auto;
 }
