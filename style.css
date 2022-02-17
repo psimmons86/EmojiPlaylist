@@ -16,16 +16,6 @@ h2 {
   height: 90vh;
   align-content: center;
 }
-
-.box {
- display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  height: 90vh;
-  align-content: center;
-}
-
 .box-one {
   background-color: aquamarine;
   width: auto;
