@@ -20,41 +20,41 @@ h2 {
 .box-one {
   background-color: aquamarine;
   margin: 1rem;
-  width: 5rem;
-  height: 5rem;
+  width: auto;
+  height: 10rem;
 }
 
 .box-two {
   background-color: lightpink;
   margin: 1rem;
-  width: 10rem;
+  width: auto;
   height: 10rem;
 }
 
 .box-three {
   background-color: yellow;
   margin: 1rem;
-  width: 10rem;
+  width: auto;
   height: 10rem;
 }
 
 .box-four {
   background-color: #ff7e05;
   margin: 1rem;
-  width: 10rem;
+  width: auto;
   height: 10rem;
 }
 
 .box-five {
   background-color: #ff00b3;
   margin: 1rem;
-  width: 10rem;
+  width: auto;
   height: 10rem;
 }
 
 .box-six {
   background-color: #02ff24;
   margin: 1rem;
-  width: 10rem;
+  width: auto;
   height: 10rem;
 }
