@@ -9,12 +9,9 @@ h2 {
   text-align: center;
 }
 .boxes {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  height: 90vh;
-  align-content: center;
+  display: grid;
+  grid-template-rows: 100px 100px 100px;
+  grid-template-columns: 100px 100px;
 }
 .box-one {
   background-color: aquamarine;
