@@ -9,17 +9,15 @@ h2 {
   text-align: center;
 }
 .boxes {
-   display: flex;
+  
+}
+
+.box {
+ display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   height: 90vh;
-}
-
-.box {
-  width: 5rem;
-  height: 5rem;
-  margin: 2rem;
 }
 
 .box-one {
